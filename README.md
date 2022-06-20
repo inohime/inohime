@@ -2,7 +2,7 @@
 
                                          🌠 VR Hardware Enthusiast, Web & Native Developer
 
-                                               🐢 Languages I use: JS, C/C++, x86-64 asm
+                                               🐢 Languages I use: TS/JS, C/C++, x86-64 asm
 
                                                         ✨ I love designing 
 
