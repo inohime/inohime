@@ -1,6 +1,6 @@
                                                       👋 Hello, I’m @inohime
 
-                                         🌠 VR Hardware Enthusiast, Web & Native Developer
+                                     🌠 VR Hardware Enthusiast, Self-taught Web & Native Developer
 
                                                🐢 Languages I use: TS/JS, C/C++, x86-64 asm
 
